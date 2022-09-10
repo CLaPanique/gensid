@@ -1,5 +1,5 @@
-amino.fix
-heroku3
-requests
-flask
 gunicorn
+samino
+Flask
+ujson
+aiohttp
