@@ -1,0 +1,5 @@
+amino.fix
+heroku3
+requests
+flask
+gunicorn
